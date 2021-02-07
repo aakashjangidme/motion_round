@@ -8,7 +8,7 @@ This project is not optimised for release build.
 
 
 
-<img src="screenshots/login_dark.png" width="720" height="1280" title="Github Logo">
+<img src="screenshots/login_dark.png" width="412" height="892">
 
 ![Screenshot](screenshots/login_dark.png)
 ![Screenshot](screenshots/login_light.png)
