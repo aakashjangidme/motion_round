@@ -49,7 +49,7 @@ class Home extends StatelessWidget {
               ),
               const YMargin(32),
               Text(
-                prov.userDetails?.name,
+                prov.userDetails?.name ?? '',
                 style: theme.textTheme.bodyText1.copyWith(
                   fontSize: 18,
                   fontWeight: FontWeight.w600,
@@ -57,7 +57,7 @@ class Home extends StatelessWidget {
               ),
               const YMargin(8),
               Text(
-                prov.userDetails?.email,
+                prov.userDetails?.email ?? '',
                 style: theme.textTheme.caption.copyWith(
                   fontSize: 14,
                   fontWeight: FontWeight.w600,
