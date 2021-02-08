@@ -27,12 +27,16 @@ dependencies:
   device_info: ^1.0.0
   firebase_auth: ^0.20.0+1
   firebase_core: ^0.7.0
+  provider:
+  cloud_firestore:
+
   fluttertoast: ^7.1.6
   get_it: ^5.0.6
   mdi: ^4.0.0
-  paginate_firestore: ^0.3.0+1
+
   qr_flutter: ^3.2.0
-  shared_preferences: ^0.5.12+4
+
+
 
 dev_dependencies:
   flutter_test:
@@ -51,6 +55,7 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/
+
   #   - images/a_dot_ham.jpeg
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
