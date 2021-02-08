@@ -24,8 +24,7 @@ class App extends StatelessWidget {
           initialRoute: Routes.rootPage,
           theme: AppTheme.lightTheme,
           darkTheme: AppTheme.darkTheme,
-          themeMode:
-              _themeNotifier.darkMode ? ThemeMode.dark : ThemeMode.system,
+          themeMode: _themeNotifier.darkMode ? ThemeMode.dark : ThemeMode.light,
           navigatorKey: Constants.navigatorKey,
         ),
       ),
