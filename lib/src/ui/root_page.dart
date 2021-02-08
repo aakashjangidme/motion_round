@@ -4,7 +4,7 @@ import 'package:provider/provider.dart';
 import '../core/providers/auth_provider.dart';
 import '../core/services/auth/auth_service.dart';
 import 'navbar/bottom_nav.dart';
-import 'onboard/login.dart';
+import 'onboard/login_screen.dart';
 import 'widgets/margins.dart';
 import 'widgets/spinner.dart';
 

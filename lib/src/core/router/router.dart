@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
 import '../../ui/navbar/bottom_nav.dart';
-import '../../ui/onboard/forgot_password.dart';
-import '../../ui/onboard/login.dart';
-import '../../ui/onboard/register.dart';
+import '../../ui/onboard/forgot_password_screen.dart';
+import '../../ui/onboard/login_screen.dart';
+import '../../ui/onboard/register_screen.dart';
 import '../../ui/root_page.dart';
 
 class Routes {

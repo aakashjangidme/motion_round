@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:machine_round_task/src/ui/widgets/animations/delayed_animation.dart';
 import 'package:machine_round_task/src/ui/widgets/custom_flat_button.dart';
 import 'package:provider/provider.dart';
 
